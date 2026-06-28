@@ -1,0 +1,23 @@
+# Environment
+.env
+.env.*
+
+# Keys & keystores
+keystores/
+*.key
+*.pem
+
+# Foundry
+out/
+cache/
+lib/
+broadcast/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
